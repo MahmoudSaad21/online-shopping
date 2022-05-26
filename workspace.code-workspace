@@ -1,0 +1,37 @@
+{
+    "folders": [
+		{
+			"path": "F:\\html &&css\\pro js"
+		},
+		{
+			"path": "F:\\html &&css\\pro js\\course-JS-and-the-DOM-master"
+		},
+		{
+			"path": "F:\\landing-page"
+		},
+		{
+			"path": "F:\\landing-page\\test"
+		},
+		{
+			"path": "F:\\landing-page\\weather-journal-app"
+		},
+		{
+			"path": "F:\\mobile red\\MahmoudSaad21-weather-journal-app-6aaa9bc\\weather-journal-app (wrong)"
+		},
+		{
+			"path": "F:\\mobile red\\weather-journal-app-main\\weather-journal-app wrong2"
+		},
+		{
+			"path": "C:\\Users\\START\\OneDrive\\Desktop\\sheet1"
+		},
+		{
+			"path": "C:\\Users\\START\\OneDrive\\Desktop\\TEST1"
+		},
+		{
+			"path": "C:\\Users\\START\\Downloads\\Compressed\\contact-us-page-design-in-html-code"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "TEST1"
+    }
+}
